@@ -1,2 +1,2 @@
 # themes
-shopify themes
+just themes
