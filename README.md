@@ -1,9 +1,9 @@
 # themes
-just themes
+just shopify & wordpress themes
 
 Copyright
 --------------
-milo WordPress Theme, Copyright 20120 milo317
+milo WordPress Theme, Copyright 2020 milo317
 
 Install Steps
 --------------
