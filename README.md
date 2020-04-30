@@ -3,7 +3,7 @@ just shopify & wordpress themes
 
 Copyright
 --------------
-milo WordPress Theme, Copyright 2020 milo317
+milo shopify & wordpress theme, copyright 2020 milo317
 
 Install Steps
 --------------
